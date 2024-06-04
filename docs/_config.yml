@@ -11,16 +11,16 @@ showinSearchEngines: true
 
 
 # Set basic server info
-serverName: Moonrise MC
-serverDescription: A Minecraft server where we have lots of fun!
-serverIP: 31.41.59.26:5358
+serverName: Lightsv MC
+serverDescription: Một máy chủ Minecraft nơi chúng tôi có rất nhiều niềm vui!
+serverIP: Lightsv.mine.bz:25902
 useBedrockForOnlineStatus: false
 
 
 # Discord information
-discordInvite: https://discord.gg/minecraft
-discordServerID: 299881420891881473
-discordChannelID: 450428756855750666
+discordInvite: https://discord.gg/qxSCFVCnhR
+discordServerID: 1095373652289134667
+discordChannelID: 1110927072282546257
 
 
 # # Navbar Links at the top of the page (uncomment "siteNav" to use)
